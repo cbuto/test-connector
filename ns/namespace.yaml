@@ -4,4 +4,3 @@ metadata:
   name: my-precreated-namespace
   labels:
     internal.spaces.upbound.io/controlplane-name: my-ctp
-    internal.spaces.upbound.io/controlplane-namespace: default
